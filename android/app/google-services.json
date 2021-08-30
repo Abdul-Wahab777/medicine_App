@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384119807708",
+    "project_id": "medappirfan",
+    "storage_bucket": "medappirfan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384119807708:android:c303c7782b92f996991e19",
+        "android_client_info": {
+          "package_name": "com.example.medical_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384119807708-s3oc986df4kq2ljfgr2k6oq5036bt0sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4d8oa2sMGpb685fStpiM6Nmtbgr84-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384119807708-s3oc986df4kq2ljfgr2k6oq5036bt0sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
